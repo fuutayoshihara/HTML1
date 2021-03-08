@@ -80,39 +80,57 @@ footer {
   header {
     width: 100%;
   }
+}
 
+@media screen and (max-width: 768px){ 
   main {
     width: 100%;
   }
+}
 
+@media screen and (max-width: 768px){
   .step-box {
     width: 100%;
   }
+}
 
-  .step-img1 {
+@media screen and (max-width: 768px)[
+  .img1 {
     width: 100%;
   }
+}
 
-  .step-img2 {
+@media screen and (max-width: 768px){
+  .img2 {
     width: 100%;
   }
+}
 
-  .step-img3 {
+@media screen and (max-width: 768px){
+  .img3 {
     width: 100%;
   }
+}
 
-  .step-num {
+@media screen and (max-width: 768px){
+  .step-name {
     width: 100%;
   }
+}
 
+@media screen and (max-width: 768px){
   h3 {
     width: 100%;
   }
+}
 
+@media screen and (max-width: 768px){
   p {
     width: 100%;
   }
+}
 
+@media screen and (max-width: 768px){
   footer {
     width: 100%;
   }
