@@ -13,6 +13,7 @@ main {
   width: 960px;
   margin: 50px auto;
   display: flex;
+  padding: 30px;
 }
 
 .box {
@@ -79,59 +80,51 @@ footer {
 @media screen and (max-width: 768px) {
   header {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){ 
   main {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){
-  .step-box {
+  .box {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px)[
   .img1 {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){
   .img2 {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){
   .img3 {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){
   .step-name {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){
   h3 {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){
   p {
     width: 100%;
+    display: block;
   }
-}
 
-@media screen and (max-width: 768px){
   footer {
     width: 100%;
+    display: block;
   }
 }
